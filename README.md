@@ -71,6 +71,8 @@ _Video Last Updated on 20th June, 2022_
 <img src="/demo/images/7.png" width=340px /><img src="/demo/images/8.png" width=340px />
 <img src="/demo/images/9.png" width=340px /><img src="/demo/images/10.png" width=340px />
 <img src="/demo/images/11.png" width=340px /><img src="/demo/images/12.png" width=340px />
+<img src="/demo/images/13.png" width=340px /><img src="/demo/images/14.png" width=340px />
+<img src="/demo/images/15.png" width=340px /><img src="/demo/images/16.png" width=340px />
 
 ## CONTRIBUTOR
  
