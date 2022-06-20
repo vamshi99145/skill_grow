@@ -1,68 +1,78 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+https://user-images.githubusercontent.com/92365361/174553724-4da5d190-ecc4-40aa-8f3a-fafa3ccfaca7.mp4
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+[![Version](https://img.shields.io/static/v1?label=version&message=0.1.0&color=blue)](https://semver.org/spec/v0.1.0.html)
+[![BOOTSTRAP](https://img.shields.io/static/v1?label=bootstrap&message=4.5.0&color=orange)](https://getbootstrap.com)
+[![JQUERY](https://img.shields.io/static/v1?label=jquery&message=3.5.1&color=yellow)](https://blog.jquery.com/2020/05/04/jquery-3-5-1-released-fixing-a-regression)
+[![REACT](https://img.shields.io/static/v1?label=react&message=16.13.1&color=green)](https://www.npmjs.com/package/react/v/16.13.1)
+[![POPPERJS](https://img.shields.io/static/v1?label=popperjs&message=1.16.1&color=red)](https://www.npmjs.com/package/popper.js/v/1.16.1-lts)
 
-### `npm test`
+### [🌐 Website](https://skillgrow.netlify.app/)  |  [📹 Demo Video](https://user-images.githubusercontent.com/92365361/174553724-4da5d190-ecc4-40aa-8f3a-fafa3ccfaca7.mp4) 
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Skillgrow - Online Courses and learning app Frontend
 
-### `npm run build`
+Skillgrow is a online courses website frontend which includes the feature of getting multiple courses, filtering courses based on different factors, contact us, about section, course enrollment section, and many others. Courses are offered across a breadth of categories, including Data Structures and Algorithm, website development, application development, structured database, unstructured databases, CS Fundamentals, Data Science, Machine Learning, and many programming languages. 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## My Tech Stack (MERN)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+#### Front-end
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Front-end Framework: `React.js `
+- Styling: `CSS and Bootstrap`
+- Languages: `Javascript and HTML`
 
-### `npm run eject`
+## Guidelines to setup
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Hereby listed manual way to setup:-
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Manual Setup
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+1. Open your local CLI -
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+   ```
+   mkdir Skillgrow
+   cd Skillgrow
+   ```
 
-## Learn More
+2. Setup the code -
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   - Create a `.env` file and the format should be as given in `.env.example`.
+   - Clone the code-
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+     ```
+     git clone https://github.com/abhinav20001/Skillgrow.git
+     cd Skillgrow
+     ```
 
-### Code Splitting
+4. Run the code -
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+   - Goto Skillgrow directory and install the modules-
 
-### Analyzing the Bundle Size
+     ```
+     npm install
+     ```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+   - Run the client index `npm start`.
 
-### Making a Progressive Web App
+## DEMO
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+#### VIDEO - [Watch the video](https://user-images.githubusercontent.com/92365361/174553724-4da5d190-ecc4-40aa-8f3a-fafa3ccfaca7.mp4)
 
-### Advanced Configuration
+_Video Last Updated on 20th June, 2022_
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+#### IMAGES
 
-### Deployment
+<img src="/demo/images/1.png" width=340px /><img src="/demo/images/2.png" width=340px />
+<img src="/demo/images/3.png" width=340px /><img src="/demo/images/4.png" width=340px />
+<img src="/demo/images/5.png" width=340px /><img src="/demo/images/6.png" width=340px />
+<img src="/demo/images/7.png" width=340px /><img src="/demo/images/8.png" width=340px />
+<img src="/demo/images/9.png" width=340px /><img src="/demo/images/10.png" width=340px />
+<img src="/demo/images/11.png" width=340px /><img src="/demo/images/12.png" width=340px />
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+## CONTRIBUTOR
+ 
+### Abhinav Kumar | [📝 LinkedIn](https://www.linkedin.com/in/abhinav-kumar-7a9a39200/)
 
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
