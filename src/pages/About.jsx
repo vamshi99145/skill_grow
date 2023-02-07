@@ -60,7 +60,7 @@ function About() {
                                         </div>
                                         <div className="col-md-4 col-12 my-auto">
                                             <div className="text-dark">
-                                                <h3 className="font-weight-bolder ">Customer Priyanshu</h3>
+                                                <h3 className="font-weight-bolder ">Customer John</h3>
                                                 <p>Incredible as you will get assisstant support wherever you stuck.</p>
                                             </div>
                                         </div>
@@ -73,7 +73,7 @@ function About() {
                                         </div>
                                         <div className="col-md-4 col-12 my-auto">
                                             <div className="text-dark">
-                                                <h3 className="font-weight-bolder ">Customer Kushagra</h3>
+                                                <h3 className="font-weight-bolder ">Customer Smith</h3>
                                                 <p>The continous evaluation makes this platform much more effective. <br />One should prefer mock interviews as it enhances communication skills also</p>
                                             </div>
                                         </div>
@@ -86,7 +86,7 @@ function About() {
                                         </div>
                                         <div className="col-md-4 col-12 my-auto">
                                             <div className="text-dark">
-                                                <h3 className="font-weight-bolder ">Customer Abhay</h3>
+                                                <h3 className="font-weight-bolder ">Customer virat</h3>
                                                 <p>Courses are available at affordable prices and best content.</p>
                                             </div>
                                         </div>
@@ -114,7 +114,7 @@ function About() {
                         <img src="https://source.unsplash.com/TMgQMXoglsM/500x350" className="card-img-top" alt="director" />
                         <div className="card-body">
                             <h5 className="card-title mb-0">Director</h5>
-                            <div className="card-text text-black-50">CEO ABHINAV KUMAR<p className="float-right">4 years</p>
+                            <div className="card-text text-black-50">CEO vamshi<p className="float-right">4 years</p>
                             </div>
                             <h6 className="mt-5">CONNECT</h6>
                             <div className="d-flex justify-content-around">

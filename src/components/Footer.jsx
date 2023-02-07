@@ -9,15 +9,13 @@ const Footer = () => {
             <div className="container py-1">
                 <div className="row">
                     <div className="col-md-6 col-12 my-auto">
-                        <small>Copyright &copy; Abhinav Kumar</small>
+                        <small>Copyright &copy; vamshi krishna</small>
                     </div>
                     <div className="col-md-6 col-12">
                         <div className="d-flex float-right">
-                            <a href="https://www.facebook.com/abhinavkumarsjb">
-                                <FaFacebookSquare className="connect text-dark" /></a>
-                            <a href="https://www.linkedin.com/in/abhinav-kumar-7a9a39200/">
+                            <a href="https://www.linkedin.com/in/serla-vamshi-krishna/">
                                 <FaLinkedin className="connect text-dark" /></a>
-                            <a href="https://www.instagram.com/_abhinav.kg/">
+                            <a href="https://www.instagram.com/vamshi__serla/">
                                 <AiFillInstagram className="connect text-dark" /></a>
                             <a href="https://www.youtube.com/">
                                 <IoLogoYoutube className="connect text-dark" /></a>
